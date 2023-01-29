@@ -3,7 +3,7 @@ Clustering Analysis, Data Cleaning, Data Visualization, Exploratory Data Analysi
 
 Tools: Python - Google Colaboratory
 
-You can find the code here and find the full deck here 
+You can find the code here and find the full deck here  
 
 
 # Objective
